@@ -1,7 +1,6 @@
-language: node_js
-cache: npm
-
 sudo: required
+language: generic
+
 services:
   - docker
 
